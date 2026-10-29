@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="256" y2="256" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6E5BFF"/>
+      <stop offset="1" stop-color="#2E8BFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#bg)"/>
+  <path d="M100 92V80a12 12 0 0 1 12-12h32a12 12 0 0 1 12 12v12" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+  <rect x="52" y="92" width="152" height="104" rx="20" fill="#FFFFFF"/>
+  <path d="M52 128h152" stroke="#6E5BFF" stroke-opacity="0.18" stroke-width="8"/>
+  <path d="M104 142l-16 14 16 14" stroke="#4A6BFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M152 142l16 14-16 14" stroke="#4A6BFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M134 138l-12 36" stroke="#4A6BFF" stroke-width="10" stroke-linecap="round"/>
+  <path d="M196 40c3 15 9 21 24 24-15 3-21 9-24 24-3-15-9-21-24-24 15-3 21-9 24-24z" fill="#FFFFFF"/>
+  <circle cx="58" cy="60" r="7" fill="#FFFFFF" fill-opacity="0.75"/>
+</svg>
